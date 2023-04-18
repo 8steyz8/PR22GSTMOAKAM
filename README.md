@@ -1,5 +1,6 @@
 # PR22GSTMOAKAM
-![1](https://user-images.githubusercontent.com/100214075/232919426-77d2d60a-4152-4850-b117-8ef21c5d0447.png) <br>
-![2](https://user-images.githubusercontent.com/100214075/232919435-51a1b42c-36dc-4add-842c-148f91a27770.png) <br>
-![3](https://user-images.githubusercontent.com/100214075/232919440-1765f5c6-cf95-4dc4-b298-f36c08d7f748.png) <br>
-![4](https://user-images.githubusercontent.com/100214075/232919447-85e3875f-d0f3-444a-8422-a58f7dc2f08f.png) <br>
+![1](https://user-images.githubusercontent.com/100214075/232919860-e24c5613-072c-491a-9d56-ab31777101c2.jpg) <br>
+![DataMining_Project-2](https://user-images.githubusercontent.com/100214075/232919866-68f120b2-0ec0-46fe-b31e-573d4cd5bc26.jpg) <br>
+![DataMining_Project-3](https://user-images.githubusercontent.com/100214075/232919870-6860bbb0-9b50-486f-b1ce-cb1df1b1474c.jpg) <br>
+![DataMining_Project-4](https://user-images.githubusercontent.com/100214075/232919878-59295bd0-bba9-470e-85bd-57484bc683a9.jpg) <br>
+
